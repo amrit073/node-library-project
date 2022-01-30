@@ -1,6 +1,6 @@
 <h1> Node Library manager</h1>
 
-/ is default entry point with login page
+/ is default entry point with login page <br>
 /login is for requests from javascript/postman
 
 <h2> For get request, isbn is compulsory</h2>
